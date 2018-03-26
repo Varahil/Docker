@@ -25,7 +25,14 @@ $sudo docker-compose up -d
 //in your web browser 
 http://localhost:8080
 
-//install php with apache
-$docker pull php:7.2.3-apache-stretch
+//install  apache
+$docker pull iagapie/alpine-apache-2.4:0.1
+
+//install php
+$ docker pull iagapie/alpine-php-7.2:0.1
+
+
+
+
 
 
