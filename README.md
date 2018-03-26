@@ -25,4 +25,7 @@ $sudo docker-compose up -d
 //in your web browser 
 http://localhost:8080
 
+//install php with apache
+$docker pull php:7.2.3-apache-stretch
+
 
