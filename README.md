@@ -5,7 +5,7 @@
 $docker pull mysql
 
 //--install phpmyadmin
-$docker pull phpmyadmin
+$docker pull phpmyadmin/phpmyadmin
 
 //--create docker-compose.yml file on your project
 $cd project-name 
