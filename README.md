@@ -10,6 +10,8 @@ $docker pull phpmyadmin/phpmyadmin
 //--create docker-compose.yml file on your project
 $cd project-name 
 $:> docker-compose.yml
+//Install docker-compose
+//Install docker
 
 //--create .env file on your project
 /project-name:$:> .env
